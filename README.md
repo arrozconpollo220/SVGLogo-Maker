@@ -47,7 +47,8 @@
   N/A
 
   ## Screenshots
-  
+  [SVG Logo Maker July 1, 2024 7_03 PM.webm](https://github.com/arrozconpollo220/SVGLogo-Maker/assets/164965766/39188a41-10da-4522-984b-19aef88f6fbc)
+
 
   ## Questions?
   Any questions regarding this project can be answered by contacting me through my GitHub Profile at https://github.com/arrozconpollo220 or at my email address at alexander.rodriguez2121@gmail.com. 
